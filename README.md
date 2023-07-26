@@ -19,6 +19,9 @@ Chatflix is a realtime chat application based on Whatsapp. This repository conta
 **redux-persist:**
 [![redux-persist](https://img.shields.io/npm/v/redux-persist.svg?logo=redux-persist)](https://www.npmjs.com/package/redux-persist)
 
+**redux-persist-transform-filter:**
+[![redux-persist-transform-filter](https://img.shields.io/npm/v/redux-persist-transform-filter.svg?logo=redux-persist-transform-filter)](https://www.npmjs.com/package/redux-persist-transform-filter)
+
 ### Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
