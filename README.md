@@ -8,11 +8,10 @@ Chatflix is a realtime chat application based on Whatsapp. This repository conta
 
 ### Dependencies
 
-**React:** [![react](https://img.shields.io/npm/v/react.svg?logo=react)](https://www.npmjs.com/package/react)
 
 **React Router:** [![react-router](https://img.shields.io/npm/v/react-router.svg?logo=react-router)](https://www.npmjs.com/package/react-router)
 
-**react-hook-form**
+**react-hook-form** [![react-hook-form](https://img.shields.io/npm/v/react-hook-form.svg?logo=react-hook-form)](https://www.npmjs.com/package/react-hook-form)]
 
 **Redux:**<br/>
 
